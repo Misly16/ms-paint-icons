@@ -1,2 +1,2 @@
 # ms-paint-icons
-dev icons made in ms paint
+ms paint style dev icons
